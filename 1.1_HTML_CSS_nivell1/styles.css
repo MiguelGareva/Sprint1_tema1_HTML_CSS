@@ -5,3 +5,13 @@
     padding: 10px;
     box-sizing: border-box;
 }
+.main{
+    display: flex;
+    flex-flow: column nowrap;
+}
+    .header{
+        background-color: #000;
+        display: flex;
+        flex-flow: column nowrap;
+    }
+    

@@ -55,3 +55,10 @@
                 background-color: #0ebaba;
                 flex: 1 1 100%;
             }
+        .aside{
+            background-color: #e65454;
+            flex: 1 1 auto;
+        }
+            .publi{
+                background-color: #d6f249;
+            }

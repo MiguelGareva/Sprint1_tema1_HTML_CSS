@@ -37,3 +37,21 @@
             h1{
                 background-color: #935887;
             }
+    .section{
+        background-color: #000;
+        display: flex;
+    }
+        .articles{
+            background-color: #bc23bc;
+            flex: 2 1 auto;
+            display: flex;
+            flex-flow: row wrap;
+        }
+            .article{
+                background-color: #0ebaba;
+                flex: 1 1 40%;
+            }
+            .low-nav{
+                background-color: #0ebaba;
+                flex: 1 1 100%;
+            }

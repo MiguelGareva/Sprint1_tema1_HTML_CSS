@@ -15,19 +15,25 @@
         flex-flow: column nowrap;
     }
         .menu{
-            background-color: #456872;
+            background-color: #4fb5c5;
             display: flex;
             flex-flow: row nowrap;
         }
             .logo{
-                background-color: #430548;
+                background-color: #935887;
                 flex: 1 1 auto;
             }
             .nav{
-                background-color: #430548;
+                background-color: #935887;
                 flex: 5 1 auto;
             }
             .social{
-                background-color: #430548;
+                background-color: #935887;
                 flex: 1 1 auto;
+            }
+        .banner{
+            background-color: #4fb5c5;
+        }
+            h1{
+                background-color: #935887;
             }

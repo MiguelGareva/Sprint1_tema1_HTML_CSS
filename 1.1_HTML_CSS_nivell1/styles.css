@@ -66,3 +66,11 @@
         .foot{
             background-color: #e65454;
         }
+@media all and (max-width:800px){
+    .section{
+        flex-direction: column;
+    }
+    .menu{
+        flex-direction: column;
+    }
+}

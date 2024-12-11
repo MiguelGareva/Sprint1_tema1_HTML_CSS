@@ -1,6 +1,4 @@
 *{
-    max-width: 1200px;
-    min-width: 250px;
     margin: 10px;
     padding: 10px;
     box-sizing: border-box;
@@ -60,7 +58,7 @@
             flex: 1 1 auto;
         }
             .publi{
-                background-color: #d6f249;
+                background-color: #d6f249; 
             }
     .footer{
         background-color: #000;

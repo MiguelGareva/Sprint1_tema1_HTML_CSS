@@ -18,7 +18,7 @@
     · Abrir navegador web de preferencia e introducir la url: localhost/"la dirección de la carpeta dónde se encuentra el ejercicio o proyecto"
 
 **<h3>#Descripción ejercicios:</h3>**
-    · <a href="1.1.1_HTML_CSS_nivell1">1.1.1_HTML_CSS_nivell1</a>: *"A partir del wireframe que t'aportem en format .png, hauràs de fer la maquetació en format escriptori. És indiferent els colors escollits, però sí que és molt important que facis l'estructura de caixes que t'indiquem."*<br>
+    · <a href="1.1_HTML_CSS_nivell1">1.1_HTML_CSS_nivell1</a>: *"A partir del wireframe que t'aportem en format .png, hauràs de fer la maquetació en format escriptori. És indiferent els colors escollits, però sí que és molt important que facis l'estructura de caixes que t'indiquem."*<br>
    
     
     
